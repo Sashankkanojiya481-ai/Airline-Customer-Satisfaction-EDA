@@ -97,3 +97,28 @@ Airline-Customer-Satisfaction-EDA
 ## 🚀 Conclusion
 
 This project demonstrates how exploratory data analysis can be used to extract valuable business insights from real-world airline data and support data-driven decision-making.
+
+## 📷 Project Visualizations
+
+### 1. Customer Type vs Passenger Satisfaction
+
+This analysis shows that loyal customers have a significantly higher satisfaction rate compared to disloyal customers, indicating the importance of customer retention strategies.
+
+![Customer Type vs Satisfaction](images/customer_type_vs_satisfaction.png)
+
+---
+
+### 2. Arrival Delay vs Passenger Satisfaction
+
+The analysis indicates that higher arrival delays negatively impact customer satisfaction. Reducing delays can improve the overall passenger experience.
+
+![Arrival Delay vs Satisfaction](images/arrival_delay_vs_satisfaction.png)
+
+---
+
+### 3. Age vs Passenger Satisfaction
+
+Passengers between the age group of 25–45 years show relatively higher dissatisfaction compared to other age groups, highlighting a key customer segment for improvement.
+
+![Age vs Passenger Satisfaction](images/age_vs_satisfaction.png)
+
